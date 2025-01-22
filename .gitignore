@@ -1,0 +1,12 @@
+# Ignore Python virtual environments
+.venv/
+
+# Ignore IDE settings (e.g., PyCharm/IntelliJ IDEA)
+.idea/
+
+# Ignore pytest cache
+.pytest_cache/
+
+# Ignore any compiled Python files
+__pycache__/
+*.py[cod]
