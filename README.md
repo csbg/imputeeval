@@ -15,7 +15,7 @@ fairly and transparently compare different imputation methods using various eval
 Install `imputeeval` directly from GitHub using pip:
 
 ```bash
-pip install git+https://github.com/Thomas-Rauter/imputeeval@v0.1.0
+pip install git+https://github.com/csbg/imputeeval@v0.1.0
 ```
 
 ## Usage
